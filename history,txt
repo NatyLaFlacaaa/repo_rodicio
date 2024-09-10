@@ -1,0 +1,16 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pwd
+    7  echo "hola"
+    8  echo $HOME
+    9  whoami
+   10  cd repogit
+   11  ls
+   12  git clone https://github.com/NatyLaFlacaaa/repo_rodicio.git
+   13  cd repo_rodicio/
+   14  ls
+   15  history
+   16  history > history,txt
